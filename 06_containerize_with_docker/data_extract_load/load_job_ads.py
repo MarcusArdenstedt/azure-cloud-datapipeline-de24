@@ -2,8 +2,8 @@
 import dlt
 import requests
 import json
-from pathlib import Path
-import os
+
+
 
 params = {"limit": 100, "occupation-field": "6Hq3_tKo_V57"}
 
